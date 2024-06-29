@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "test:dev": "jest"
+    "test": "jest"
   },
   "dependencies": {
     "@google-cloud/logging": "11.1.0",
