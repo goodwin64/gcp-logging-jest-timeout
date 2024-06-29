@@ -5,11 +5,7 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "baseUrl": "./",
-    "paths": {
-      "*": ["node_modules/*", "src/types/*"],
-      "@src/*": ["./src/*"],
-      "@generated/*": ["./src/generated/*"]
-    },
+    "paths": {},
     "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
